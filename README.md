@@ -1,5 +1,3 @@
-![Help Noman Get His Dream Car](./dream-car-banner.png)
-
 # Help Noman Get His Dream Car
 
 ### A developer's dream, one star at a time ❤️
