@@ -2,7 +2,7 @@
 
 ### A developer's dream, one star at a time ❤️
 
-Hi, I'm **Noman Afzal**, a technology entrepreneur and Founder & CEO of **SOFCODTEC**, based in Pakistan.
+Hi, I'm **Noman Afzal**, a technology entrepreneur based in Pakistan.
 
 I've spent years building Shopify stores, developing applications, solving technical problems, and working towards making a meaningful contribution to Pakistan's technology industry.
 
