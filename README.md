@@ -25,8 +25,7 @@ This is a personal dream, not a charity campaign or a promise of anything in ret
 
 **Build | Learn | Create | Make an Impact**
 
-— Noman Afzal  
-Founder & CEO, SOFCODTEC  
+— Noman Afzal   
 Pakistan 🇵🇰
 
 [Connect with me on GitHub](https://github.com/imnomanafzal)
